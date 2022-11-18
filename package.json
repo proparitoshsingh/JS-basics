@@ -1,0 +1,23 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proparitoshsingh/JS-basics.git"
+  },
+  "author": "Paritosh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proparitoshsingh/JS-basics/issues"
+  },
+  "homepage": "https://github.com/proparitoshsingh/JS-basics#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
